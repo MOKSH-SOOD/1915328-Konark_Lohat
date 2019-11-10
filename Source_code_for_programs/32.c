@@ -32,7 +32,7 @@ int main()
         printf("Name: %s\n", s[i].name);
         printf("Age: %d\n", s[i].age);
         printf("Marks: %d\n", s[i].marks);
-        printf("Sex: %s\n", s[i].sex);
+        printf("Sex: %c\n", s[i].sex);
         printf("\n\n");
     }
     return 0;

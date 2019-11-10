@@ -1,24 +1,25 @@
-#include<stdio.h>
+#include <stdio.h>
+ 
 int main()
 {
-    int num, k=0, x;
-    for (num=1; num<=100; num++)
+  int i, Number, count; 
+  
+  printf(" Prime Number from 1 to 100 are: \n"); 
+  for(Number = 1; Number <= 100; Number++)
+  {
+    count = 0;
+    for (i = 2; i <= Number/2; i++)
     {
-        for (x=1; x<=num; x++)
-        {
-            if (num%x == 0)
-            {
-                k++;
-            }
-        }
+  	if(Number%i == 0)
+  	{
+     	  count++;
+  	  break;
+	}
     }
-    if (k == 2)
-    printf("%d\n", num);
-    else 
+    if(count == 0 && Number != 1 )
     {
-        if (k == 1)
-        printf("Number is neither a prime nor a composite");
-        else
-        printf("Number is not a prime number");
-    }    
+	printf(" %d ", Number);
+    }  
+  }
+  return 0;
 }
