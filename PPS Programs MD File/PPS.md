@@ -18,7 +18,7 @@ int main()
     return 0;
 }
 ```
-![1.jpg](01.jpg)
+![1.jpg](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/01.JPG)
 ### 2) To print College address.
 ```C
 #include<stdio.h>
