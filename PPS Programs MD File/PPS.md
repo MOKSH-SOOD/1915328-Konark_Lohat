@@ -28,7 +28,7 @@ int main()
     return 0;
 }
 ```
-![2.jpg](02.jpg)
+![2.jpg](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/02.JPG)
 ### 3) Program to add two integers.
 ```C
 #include<stdio.h>
@@ -44,7 +44,7 @@ int main()
     return 0;
 }
 ```
-![3.jpg](03.jpg)
+![3.jpg](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/03.JPG)
 ### 4) Program to find quotient and remainder.
 ```C
 #include<stdio.h>
@@ -62,7 +62,7 @@ int main()
     return 0;
 }
 ```
-![4.jpg](04.jpg)
+![4.jpg](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/04.JPG)
 ### 5) Program to swap two variables without 3rd variable.
 ```C
 #include<stdio.h>
@@ -81,7 +81,7 @@ int main()
     return 0;
 }
 ```
-![5.jpg](05.jpg)
+![5.jpg](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/05.JPG)
 ### 6) Program to check even odd number.
 ```C
 #include<stdio.h>
@@ -97,7 +97,7 @@ int main()
     return 0;
 }
 ```
-![6.png](06.jpg)
+![6.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/06.JPG)
 ### 7) Finding greteast of two numbers.
 ```C
 #include<stdio.h>
@@ -115,7 +115,7 @@ int main()
     return 0;
 }
 ```
-![7.png](07.jpg)
+![7.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/07.JPG)
 ### 8) Find greatest of three number .
 ```C
 #include<stdio.h>
@@ -147,7 +147,7 @@ int main()
     
 }
 ```
-![8.png](08.jpg)
+![8.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/08.JPG)
 ### 9) Program to assign grade to student according to percentage.
 ```C
 #include<stdio.h>
@@ -189,7 +189,7 @@ int main()
     return 0;
 }
 ```
-![9.png](09.jpg)
+![9.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/09.JPG)
 ### 10) Program to print roots of quadratic equation.
 ```C
 #include<stdio.h>
@@ -210,7 +210,7 @@ int main()
     return 0;
 }
 ```
-![10.png](10.jpg)
+![10.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/10.JPG)
 ### 11) Program to check year is leap or not.
 ```C
 #include<stdio.h>
@@ -226,7 +226,7 @@ int main()
     return 0;
 }
 ```
-![11.png](11.jpg)
+![11.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/11.JPG)
 ### 12) Program to print table of 5.
 ```C
 #include<stdio.h>
@@ -242,7 +242,7 @@ int main()
     return 0;
 }
 ```
-![12.png](12.jpg)
+![12.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/12.JPG)
 ### 13) To make simple calculator using switch case.
 ```C
 #include<stdio.h>
@@ -275,7 +275,7 @@ int main()
     return 0;
 }
 ```
-![13.png](13.jpg)
+![13.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/13.JPG)
 ### 14) To calculate reverse of a number.
 ```C
 #include<stdio.h>
@@ -294,7 +294,7 @@ int main()
     return 0;
 }
 ```
-![14.png](14.jpg)
+![14.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/14.JPG)
 ### 15) To check whether number is palindrome or not.
 ```C
  #include<stdio.h>
@@ -317,7 +317,7 @@ int main()
     return 0;
 }
 ```
-![15.png](15.jpg)
+![15.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/15.JPG)
 ### 16) To check whether a number is prime or not.
 ```C
 #include<stdio.h>
@@ -344,7 +344,7 @@ int main()
     }
 }
 ```
-![16.png](16.jpg)
+![16.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/16.JPG)
 ### 17) Program to print prime numbers from 1 to 100.
 ```C
 #include <stdio.h>
@@ -373,7 +373,7 @@ int main()
   return 0;
 } 
  ``` 
- ![17.png](17.jpg)
+ ![17.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/17.JPG)
 ### 18) Program to check whether a number is armstrong or not.
 ```C
 #include<stdio.h>
@@ -397,7 +397,7 @@ int main()
 }
 
 ```
-![18.png](18.jpg)
+![18.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/18.JPG)
 ### 19) Print the following patterns:
 ### i) Pattern 1. 
 ```C
@@ -416,7 +416,7 @@ int main()
     return 0;
 }
 ```
-![19_1.png](19a.jpg)
+![19_1.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/19a.JPG)
 
 ### ii) Pattern 2.
 ```C
@@ -435,9 +435,9 @@ int main()
     return 0;
 }
 ``` 
-![19_2.png](19b.jpg)
+![19_2.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/19b.JPG)
 
-### ii) Pattern 2.
+### iii) Pattern 3.
 ```C
 #include<stdio.h>
 int main()
@@ -462,7 +462,7 @@ int main()
     return 0;
 }
 ``` 
-![19_3.png](19c.jpg)
+![19_3.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/19c.JPG)
 ### 20) Program to find largest from 1 dimensional array.
 ```C 
 #include<stdio.h>
@@ -483,7 +483,7 @@ int main()
     return 0;
 }
 ```
-![20.png](20.jpg)
+![20.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/20.JPG)
 
 ### 21) To find sumof the N natural numbers in an array.
 ```C
@@ -506,7 +506,7 @@ int main()
     return 0;
 }
 ```
-![21.png](21.jpg)
+![21.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/21.JPG)
 
 ### 22) Program to add two matrices .
 ```C
@@ -540,7 +540,7 @@ int main()
     return 0; 
 }
 ```
-![22.png](22.jpg)
+![22.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/22.JPG)
 ### 23) Program to multiply two matrices .
 ```C
 #include<stdio.h>
@@ -576,7 +576,7 @@ int main()
     return 0; 
 } 
 ```
-![23.png](23.jpg)
+![23.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/23.JPG)
 ### 24) Program to check whether  a string is palindrome or not .
 ```C
 #include<stdio.h>
@@ -601,7 +601,30 @@ int main()
     return 0;
 }
 ```
-![25.png](25.jpg)
+![24.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/24.JPG)
+### 25) Programs to perform basic operations like length of string, string concatenation, sting copy, string compare and string reverse.
+```C
+#include<stdio.h>
+#include<string.h>
+int main()
+{
+    int s1[10],s2[10],s3[40],i,j;
+    printf("Enter the string 1 (MAX. is 10 Elements): ");
+    scanf("%s", s1);
+    printf("Enter the string 2 (MAX. is 10 Elements): ");
+    scanf("%s", s2);
+    if(strcmp(s1,s2)==0)
+    printf("Entered strings are same\n");
+    else 
+    printf("Entered strings are not same\n");
+    printf("Length of string 1 and string 2 is %d and %d respectively\n", strlen(s1),strlen(s2));
+    printf("Concatenated string is %s\n", strcat(s1,s2));
+    printf("New Copied string from string 2 by strcpy() is %s\n", strcpy(s3,s2));
+    printf("Reverse of string 2 is %s",strrev(s2));
+    return 0;
+}
+```
+![25.jpg](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/25.JPG)
 ### 26) Programs to swap two numbers using call by value and call by refernce.
 
 ### Call by reference
@@ -636,7 +659,7 @@ void swap(int *a, int *b)
    *a = temp;
 }
 ```
-![26_1.png](26.jpg)
+![26_1.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/26.JPG)
 ### call by value:- 
 ```C
 /* Call by value */
@@ -670,7 +693,7 @@ void swap(int a, int b) {
     printf("Values of a and b is %d  %d\n",a,b);
 }
 ```
-![26_2.png](26b.jpg)
+![26_2.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/26b.JPG)
    
 ### 27) Program to calculate factorial of a number with and without recursion both.
 ```C
@@ -694,7 +717,7 @@ long long int factorial(long long int x)
     return 1;
 }
 ```
-![27_1.png](27a.jpg)
+![27_1.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/27a.JPG)
 
 ```C
 #include<stdio.h>
@@ -711,7 +734,7 @@ int main()
     return 0;
 }
 ```
-![27_2.png](27b.jpg)
+![27_2.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/27b.JPG)
 
 ### 28) Program to print fibonacci series with and without recursion both.
 ```C
@@ -738,7 +761,7 @@ int fib(int j)
     return (fib(j-1) + fib(j-2));
 }
 ```
-![28_1.png](28a.jpg)
+![28_1.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/28a.JPG)
 ```C
 #include<stdio.h>
 int main()
@@ -753,7 +776,7 @@ int main()
     } 
 }
 ```
-![28_2.png](28b.jpg)
+![28_2.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/28b.JPG)
 
 ### 29) Program to calculate average of 5 numbers using function.
 ```C
@@ -772,7 +795,7 @@ int average(int a, int b, int c, int d, int e)
     return ((a+b+c+d+e)/5);
 }
  ```
-![29.png](29.jpg)
+![29.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/29.JPG)
 ### 30) Program to implement linear serach and binary.
 
 ### Linear Search Program
@@ -802,7 +825,7 @@ int main()
     return 0;
 }
 ```
-![30_1.png](30a.jpg)
+![30_1.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/30a.JPG)
 ### Binary Search Program
 ```C
 #include<stdio.h>
@@ -841,7 +864,7 @@ int main()
 }
 ```
 
-![30_2.png](30b.jpg)
+![30_2.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/30b.JPG)
 
 ### 31) Program to implement bubble sort.
 ```C
@@ -880,7 +903,7 @@ int main()
   return 0;
 }
 ```
-![31.png](31.jpg)
+![31.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/31.JPG)
 ### 32) Program to store information of 10 students using array of structures.
 ```C
 #include<stdio.h>
@@ -923,8 +946,8 @@ int main()
     return 0;
 }
 ```
-![32_1.png](32.jpg)
-![32_2.png](32_cont.jpg)
+![32_1.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/32.JPG)
+![32_2.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/32_cont.JPG)
 ### 33) Programs to compute the transpose of a matrix.
 ```C
 #include<stdio.h>
@@ -949,7 +972,7 @@ int main()
     return 0;
 }
 ```
-![33.png](33.jpg)
+![33.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/33.JPG)
 ### 34) Program to print the address of variable using pointer.
 ```C
 #include <stdio.h>
@@ -972,7 +995,7 @@ int main() {
   return 0;
 }
 ```
-![34.png](34.jpg)
+![34.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/34.JPG)
 ### 35) Program to access array using pointer.
 ```C
 int main()
@@ -987,4 +1010,4 @@ int main()
    return 0;
 }
 ```
-![35.png](35.jpg)
+![35.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/35.JPG)
