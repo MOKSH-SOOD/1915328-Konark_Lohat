@@ -18,7 +18,7 @@ int main()
     return 0;
 }
 ```
-![](01.jpg)
+![1.jpg](01.jpg)
 ### 2) To print College address.
 ```C
 #include<stdio.h>
@@ -28,7 +28,7 @@ int main()
     return 0;
 }
 ```
-![](02.jpg)
+![2.jpg](02.jpg)
 ### 3) Program to add two integers.
 ```C
 #include<stdio.h>
@@ -44,7 +44,7 @@ int main()
     return 0;
 }
 ```
-![](03.jpg)
+![3.jpg](03.jpg)
 ### 4) Program to find quotient and remainder.
 ```C
 #include<stdio.h>
@@ -62,7 +62,7 @@ int main()
     return 0;
 }
 ```
-![](04.jpg)
+![4.jpg](04.jpg)
 ### 5) Program to swap two variables without 3rd variable.
 ```C
 #include<stdio.h>
@@ -81,7 +81,7 @@ int main()
     return 0;
 }
 ```
-![](05.jpg)
+![5.jpg](05.jpg)
 ### 6) Program to check even odd number.
 ```C
 #include<stdio.h>
